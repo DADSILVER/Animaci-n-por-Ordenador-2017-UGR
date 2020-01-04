@@ -1,0 +1,8 @@
+La cinematica inversa es mas comoda usarla a la hora de situar posiciones con mas facilidad,
+se hace mas ameno situar las pieza pero se complica a la hora de situarlas con exactitud. En
+cambio cuando uso cinematica directa se pueden poner con mas exactitud las piezas pero se 
+tarda mucho mas ya que tienes que trabajar con el angulo de cada una de las piezas.
+
+Me ha parecido mas facil usar en la despedida la cinematica directa ya que principalmente 
+se mueve solo el antebrazo. Y en la escena de limpiar la mesa me ha parecido mas facil la
+ cinematica inversa. ya que consistia en poner la mano en distintas posiciones

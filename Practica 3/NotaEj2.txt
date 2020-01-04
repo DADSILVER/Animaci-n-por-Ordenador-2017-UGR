@@ -1,0 +1,5 @@
+En el ejercicio 2 he puesto dos camaras.
+
+La camara1 tiene un recorrido mas alocado pero no se llega a mostrar con claridad la ciudad.
+
+La camara2 va mas lenta y si se puede apreciar mas el paisaje.
